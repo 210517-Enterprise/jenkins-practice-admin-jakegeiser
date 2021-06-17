@@ -1,5 +1,5 @@
 package com.revature.model;
-
+// this is a bean
 public class Employee {
 	
 	private int id;
